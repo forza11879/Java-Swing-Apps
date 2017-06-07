@@ -1,0 +1,1 @@
+enum ScoopRange { Small, Medium, Large }
